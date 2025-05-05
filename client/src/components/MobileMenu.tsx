@@ -39,7 +39,9 @@ const MobileMenu = ({ isOpen }: MobileMenuProps) => {
       </ul>
       <div className="mt-6 sm:hidden">
         <p className="text-xs uppercase mb-2 font-bold">Language</p>
-        <LanguageSwitcher />
+        <div className="inline-block">
+          <LanguageSwitcher />
+        </div>
       </div>
     </div>
   );
