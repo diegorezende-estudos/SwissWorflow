@@ -1,60 +1,62 @@
 import { Link } from "wouter";
+import { useTranslation } from "react-i18next";
 
 const Footer = () => {
+  const { t } = useTranslation();
+  
   return (
-    <footer className="py-16 px-8 md:px-16 bg-white border-t-2 border-black">
-      <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-12">
+    <footer className="py-12 sm:py-16 px-4 sm:px-8 md:px-16 bg-white border-t-2 border-black">
+      <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 md:gap-12">
         <div>
           <h2 className="text-xl font-bold mb-6">SWISS WORKFLOW</h2>
           <p className="text-sm mb-4">
-            Precision-driven AI automation<br />
-            for forward-thinking businesses.
+            {t('footer.tagline')}
           </p>
           <p className="text-sm">
-            123 Tech Avenue<br />
-            Zurich, 8000<br />
-            Switzerland
+            {t('footer.address')}<br />
+            {t('footer.city')}<br />
+            {t('footer.country')}
           </p>
         </div>
 
         <div>
-          <h3 className="text-sm font-bold uppercase mb-6">Sitemap</h3>
+          <h3 className="text-sm font-bold uppercase mb-6">{t('footer.sitemap')}</h3>
           <ul className="space-y-3">
             <li>
-              <Link href="/">
-                <a className="text-sm hover:underline">Home</a>
-              </Link>
+              <a href="/" className="text-sm hover:underline">
+                {t('footer.home')}
+              </a>
             </li>
             <li>
-              <Link href="#about">
-                <a className="text-sm hover:underline">About</a>
-              </Link>
+              <a href="#about" className="text-sm hover:underline">
+                {t('footer.about')}
+              </a>
             </li>
             <li>
-              <Link href="#services">
-                <a className="text-sm hover:underline">Services</a>
-              </Link>
+              <a href="#services" className="text-sm hover:underline">
+                {t('footer.services')}
+              </a>
             </li>
             <li>
-              <Link href="#cases">
-                <a className="text-sm hover:underline">Case Studies</a>
-              </Link>
+              <a href="#cases" className="text-sm hover:underline">
+                {t('footer.cases')}
+              </a>
             </li>
             <li>
-              <Link href="#how-it-works">
-                <a className="text-sm hover:underline">How It Works</a>
-              </Link>
+              <a href="#how-it-works" className="text-sm hover:underline">
+                {t('footer.howItWorks')}
+              </a>
             </li>
             <li>
-              <Link href="#contact">
-                <a className="text-sm hover:underline">Contact</a>
-              </Link>
+              <a href="#contact" className="text-sm hover:underline">
+                {t('footer.contact')}
+              </a>
             </li>
           </ul>
         </div>
 
         <div>
-          <h3 className="text-sm font-bold uppercase mb-6">Connect</h3>
+          <h3 className="text-sm font-bold uppercase mb-6">{t('footer.connect')}</h3>
           <div className="flex space-x-4 mb-8">
             <a href="#" className="text-black hover:opacity-75" aria-label="LinkedIn">
               <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
@@ -78,9 +80,9 @@ const Footer = () => {
           </div>
 
           <p className="text-sm">
-            &copy; {new Date().getFullYear()} Swiss Workflow<br />
-            <a href="#" className="hover:underline">Privacy Policy</a> •&nbsp;
-            <a href="#" className="hover:underline">Terms of Service</a>
+            {t('footer.copyright', { year: new Date().getFullYear() })}<br />
+            <a href="#" className="hover:underline">{t('footer.privacy')}</a> •&nbsp;
+            <a href="#" className="hover:underline">{t('footer.terms')}</a>
           </p>
         </div>
       </div>
