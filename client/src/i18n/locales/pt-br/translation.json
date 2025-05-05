@@ -1,0 +1,139 @@
+{
+  "header": {
+    "about": "SOBRE",
+    "services": "SERVIÇOS",
+    "cases": "CASOS",
+    "contact": "CONTATO"
+  },
+  "hero": {
+    "title": "Automatize seu fluxo de trabalho com agentes de IA",
+    "subtitle": "Aumente a produtividade e automatize processos usando agentes de IA de precisão projetados para o seu negócio.",
+    "talkToExpert": "FALE COM UM ESPECIALISTA",
+    "learnMore": "SAIBA MAIS"
+  },
+  "value": {
+    "integratedSystems": {
+      "title": "Sistemas integrados",
+      "description": "Aumente a eficiência em 200% através do WhatsApp, APIs e CRMs."
+    },
+    "provenROI": {
+      "title": "ROI comprovado",
+      "description": "Mais de 40 fluxos de trabalho automatizados em diversos setores."
+    }
+  },
+  "features": {
+    "title": "Recursos principais",
+    "dataCollection": {
+      "title": "Coleta de dados",
+      "description": "Coleta automatizada de dados de múltiplas fontes com precisão e confiabilidade."
+    },
+    "availability": {
+      "title": "Disponibilidade 24h",
+      "description": "Agentes de IA trabalham 24 horas para garantir a continuidade das operações comerciais."
+    },
+    "salesBoost": {
+      "title": "Aumento de vendas",
+      "description": "Aumente as taxas de conversão com sistemas inteligentes de engajamento do cliente."
+    },
+    "costReduction": {
+      "title": "Redução de custos",
+      "description": "Minimize despesas operacionais automatizando tarefas repetitivas."
+    },
+    "scalability": {
+      "title": "Escalabilidade",
+      "description": "Expanda facilmente suas capacidades de automação à medida que seu negócio cresce."
+    },
+    "smartInsights": {
+      "title": "Insights inteligentes",
+      "description": "Obtenha informações comerciais valiosas através de análises de dados automatizadas."
+    }
+  },
+  "caseStudies": {
+    "title": "Estudos de caso",
+    "retail": {
+      "company": "Rede de varejo",
+      "description": "Gerenciamento automatizado de estoque em 24 locais, reduzindo custos em 30%."
+    },
+    "financial": {
+      "company": "Serviços financeiros",
+      "description": "Processo de integração de clientes simplificado, reduzindo o tempo de processamento de dias para minutos."
+    },
+    "healthcare": {
+      "company": "Provedor de saúde",
+      "description": "Agendamento automatizado de consultas e acompanhamentos, melhorando a satisfação do paciente em 45%."
+    },
+    "learnMore": "SAIBA MAIS"
+  },
+  "howItWorks": {
+    "title": "Como funciona",
+    "subtitle": "A automação é complicada - mas implementá-la não precisa ser. Simplificaremos o processo para você em 3 etapas.",
+    "consultation": {
+      "title": "Consulta gratuita",
+      "description": "Converse com um engenheiro de sistemas real (normalmente +$500/hora) e discuta os requisitos e objetivos do seu projeto. Ouviremos atentamente para entender sua visão e objetivos."
+    },
+    "scope": {
+      "title": "Escopo e proposta",
+      "description": "Com base na sua consulta, forneceremos um escopo detalhado, incluindo etapas detalhadas, cronograma, orçamento e quaisquer modificações ou extensões potenciais ao seu sistema."
+    },
+    "start": {
+      "title": "Início do projeto",
+      "description": "Depois que você concordar com uma proposta, agendaremos uma reunião de início para apresentar nossa equipe e começar."
+    }
+  },
+  "contact": {
+    "title": "Vamos construir o futuro juntos",
+    "name": "Nome",
+    "email": "Email",
+    "company": "Empresa",
+    "position": "Cargo",
+    "message": "Mensagem",
+    "send": "ENVIAR",
+    "success": "Obrigado pela sua mensagem. Entraremos em contato em breve."
+  },
+  "faq": {
+    "title": "Perguntas frequentes",
+    "questions": [
+      {
+        "question": "Que tipos de empresas podem se beneficiar da automação com IA?",
+        "answer": "Praticamente qualquer empresa pode se beneficiar da automação com IA. Nossos clientes variam de pequenas empresas a grandes corporações nos setores de varejo, saúde, finanças, manufatura e serviços. Se sua empresa tem tarefas repetitivas ou processos com uso intensivo de dados, provavelmente existe uma oportunidade de automação."
+      },
+      {
+        "question": "Quanto tempo geralmente leva a implementação?",
+        "answer": "Os prazos de implementação variam de acordo com a complexidade, mas a maioria dos projetos leva entre 4-12 semanas. Automações de fluxo de trabalho simples podem ser concluídas em apenas 2-3 semanas, enquanto soluções empresariais podem levar 3-6 meses."
+      },
+      {
+        "question": "Que nível de conhecimento técnico é necessário da nossa parte?",
+        "answer": "Nenhum conhecimento técnico é necessário da sua equipe. Nós cuidamos de todos os aspectos técnicos da implementação, integração e treinamento. Trabalharemos com sua equipe para entender seus processos, mas a execução técnica é inteiramente nossa responsabilidade."
+      },
+      {
+        "question": "Quanto custa?",
+        "answer": "Os preços variam de acordo com o escopo do projeto, complexidade e requisitos de integração. Oferecemos modelos de preços flexíveis, incluindo projetos com preço fixo, assinaturas mensais e acordos baseados em ROI. Entre em contato conosco para obter uma cotação personalizada com base em suas necessidades específicas."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Automação IA de precisão para empresas com visão de futuro.",
+    "address": "78 Gersauerstrasse",
+    "city": "Schwyz 6440",
+    "country": "Suíça",
+    "sitemap": "Mapa do site",
+    "home": "Início",
+    "about": "Sobre",
+    "services": "Serviços",
+    "cases": "Casos",
+    "howItWorks": "Como funciona",
+    "contact": "Contato",
+    "connect": "Conectar",
+    "privacy": "Política de privacidade",
+    "terms": "Termos de serviço",
+    "copyright": "© {{year}} Swiss Workflow"
+  },
+  "languageSwitcher": {
+    "en": "English",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "es": "Español",
+    "pt-BR": "Português (Brasil)"
+  }
+}
