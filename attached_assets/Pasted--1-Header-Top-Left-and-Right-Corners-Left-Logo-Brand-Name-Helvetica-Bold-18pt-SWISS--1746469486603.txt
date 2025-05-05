@@ -1,0 +1,142 @@
+🔳 1. Header (Top Left and Right Corners)
+Left (Logo/Brand Name):
+
+
+Helvetica Bold, 18pt
+SWISS WORKFLOW
+Right (Nav, Uppercase, Horizontal Grid-Aligned):
+
+
+Helvetica Normal, 12pt, Spaced
+ABOUT     SERVICES     CASES     CONTACT
+📢 2. Hero Section
+Headline:
+
+
+Helvetica Bold, 48pt, Left-aligned
+Automate Your Workflow
+with AI Agents
+Subheadline:
+
+Helvetica Normal, 18pt
+Increase productivity and automate processes using precision-driven AI agents designed for your business.
+CTA Buttons (Aligned to baseline grid):
+
+
+[ TALK TO AN EXPERT ]    [ LEARN MORE ]
+Helvetica Bold, 12pt, All Caps, Black text, white background, black border
+📐 3. 2-Column Value Section (Grid-aligned, Equal Width)
+Left:
+Title: Integrated Systems – Helvetica Bold, 16pt
+
+Text: Boost efficiency by 200% through WhatsApp, APIs, and CRMs. – Helvetica Normal, 14pt
+
+Right:
+Title: Proven ROI – Helvetica Bold, 16pt
+
+Text: Over 40 workflows automated across various industries. – Helvetica Normal, 14pt
+
+📊 4. Features Grid (3 Columns, 2 Rows)
+Each feature block:
+
+• Title – Helvetica Bold, 14pt
+• Description – Helvetica Normal, 12pt
+Example:
+
+Data Collection
+
+24h Availability
+
+Sales Boost
+
+Cost Reduction
+
+Scalability
+
+Smart Insights
+
+📈 5. Case Studies
+3 Cards, Horizontally Aligned
+
+Company Name – Helvetica Bold, 14pt
+
+Short Description – Helvetica Normal, 12pt
+
+[ LEARN MORE ] – Helvetica Bold, 12pt, underlined link
+
+⚙️ 6. How It Works (4 Steps, Vertical Flow)
+Each step:
+
+
+Step Title – Helvetica Bold, 14pt
+Short Description – Helvetica Normal, 12pt
+e.g.,
+
+Automation is complicated - but implementing it doesn't have to be. 
+
+We'll simplify the process for you in 3 steps. 
+
+
+1-Free consultation 
+2-Scope and proposal 
+3-Project start 
+
+
+
+Subtext item 1
+Talk to a real systems engineer (typically +$500/hour) and discuss your project requirements and goals. We'll listen carefully to understand your vision and goals.  
+
+
+Subtext item 2 
+Based on your consultation, we'll provide a detailed scope, including detailed steps, timeline, budget, and any potential modifications or extensions to your system. 
+
+
+Subtext item 3
+ Once you've agreed on a proposal, we'll schedule a kickoff meeting to introduce our team and get started.
+O ChatGPT disse:
+Processing image
+Lots of people are creating images right now, so this might take a bit. We'll notify you when your image is ready.
+
+
+
+📬 7. Contact / Form Section
+Title: Let’s build the future together – Helvetica Bold, 24pt
+
+Form fields (aligned left, stacked):
+
+
+Name
+Email
+Company
+Position
+Message
+[ SEND ] – Button with Helvetica Bold, All Caps
+
+
+❓ 8. FAQ (Accordion, Left Aligned)
+Each question:
+
+Helvetica Bold, 14pt
+Answer:
+
+Helvetica Normal, 12pt
+
+⚫ 9. Footer (3-Column Layout)
+Column 1 (Logo + Info): Helvetica Bold, 12pt
+
+Column 2 (Navigation): Helvetica Normal, 12pt
+
+Column 3 (Social Media + Legal): Helvetica Normal, 12pt
+
+📝 Layout Rules (Swiss Grid)
+12-column grid
+
+Modular baseline grid (8px or 10px)
+
+Left-aligned text blocks
+
+No shadows, no gradients
+
+Only use black (#000) and white (#FFF)
+
+Ample white space
