@@ -1,0 +1,139 @@
+{
+  "header": {
+    "about": "ÜBER UNS",
+    "services": "DIENSTLEISTUNGEN",
+    "cases": "FALLSTUDIEN",
+    "contact": "KONTAKT"
+  },
+  "hero": {
+    "title": "Automatisieren Sie Ihren Workflow mit KI-Agenten",
+    "subtitle": "Steigern Sie die Produktivität und automatisieren Sie Prozesse mit präzisionsgesteuerten KI-Agenten für Ihr Unternehmen.",
+    "talkToExpert": "MIT EXPERTEN SPRECHEN",
+    "learnMore": "MEHR ERFAHREN"
+  },
+  "value": {
+    "integratedSystems": {
+      "title": "Integrierte Systeme",
+      "description": "Steigern Sie die Effizienz um 200% durch WhatsApp, APIs und CRMs."
+    },
+    "provenROI": {
+      "title": "Bewährte Rentabilität",
+      "description": "Über 40 automatisierte Workflows in verschiedenen Branchen."
+    }
+  },
+  "features": {
+    "title": "Hauptmerkmale",
+    "dataCollection": {
+      "title": "Datenerfassung",
+      "description": "Automatisierte Datensammlung aus mehreren Quellen mit Präzision und Zuverlässigkeit."
+    },
+    "availability": {
+      "title": "24h Verfügbarkeit",
+      "description": "KI-Agenten arbeiten rund um die Uhr, um den kontinuierlichen Geschäftsbetrieb zu gewährleisten."
+    },
+    "salesBoost": {
+      "title": "Umsatzsteigerung",
+      "description": "Erhöhen Sie die Konversionsraten mit intelligenten Kundeninteraktionssystemen."
+    },
+    "costReduction": {
+      "title": "Kostenreduzierung",
+      "description": "Minimieren Sie die Betriebskosten durch Automatisierung wiederkehrender Aufgaben."
+    },
+    "scalability": {
+      "title": "Skalierbarkeit",
+      "description": "Erweitern Sie Ihre Automatisierungsfähigkeiten einfach mit dem Wachstum Ihres Unternehmens."
+    },
+    "smartInsights": {
+      "title": "Intelligente Erkenntnisse",
+      "description": "Gewinnen Sie wertvolle Geschäftsinformationen durch automatisierte Datenanalyse."
+    }
+  },
+  "caseStudies": {
+    "title": "Fallstudien",
+    "retail": {
+      "company": "Einzelhandelskette",
+      "description": "Automatisiertes Bestandsmanagement an 24 Standorten, Kostenreduzierung um 30%."
+    },
+    "financial": {
+      "company": "Finanzdienstleister",
+      "description": "Optimierter Kundenonboarding-Prozess, Verkürzung der Bearbeitungszeit von Tagen auf Minuten."
+    },
+    "healthcare": {
+      "company": "Gesundheitsdienstleister",
+      "description": "Automatisierte Terminplanung und Nachsorge, Verbesserung der Patientenzufriedenheit um 45%."
+    },
+    "learnMore": "MEHR ERFAHREN"
+  },
+  "howItWorks": {
+    "title": "Wie es funktioniert",
+    "subtitle": "Automatisierung ist komplex - die Implementierung muss es nicht sein. Wir vereinfachen den Prozess für Sie in 3 Schritten.",
+    "consultation": {
+      "title": "Kostenlose Beratung",
+      "description": "Sprechen Sie mit einem echten Systemingenieur (typischerweise +500$/Stunde) und diskutieren Sie Ihre Projektanforderungen und Ziele. Wir hören aufmerksam zu, um Ihre Vision und Ziele zu verstehen."
+    },
+    "scope": {
+      "title": "Umfang und Angebot",
+      "description": "Basierend auf Ihrer Beratung erstellen wir einen detaillierten Umfang, einschließlich detaillierter Schritte, Zeitplan, Budget und möglicher Änderungen oder Erweiterungen Ihres Systems."
+    },
+    "start": {
+      "title": "Projektstart",
+      "description": "Sobald Sie einem Angebot zugestimmt haben, planen wir ein Kickoff-Meeting, um unser Team vorzustellen und mit der Arbeit zu beginnen."
+    }
+  },
+  "contact": {
+    "title": "Lassen Sie uns gemeinsam die Zukunft gestalten",
+    "name": "Name",
+    "email": "E-Mail",
+    "company": "Unternehmen",
+    "position": "Position",
+    "message": "Nachricht",
+    "send": "SENDEN",
+    "success": "Vielen Dank für Ihre Nachricht. Wir werden uns in Kürze bei Ihnen melden."
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "questions": [
+      {
+        "question": "Welche Arten von Unternehmen können von KI-Automatisierung profitieren?",
+        "answer": "Praktisch jedes Unternehmen kann von KI-Automatisierung profitieren. Unsere Kunden reichen von kleinen Unternehmen bis hin zu Großunternehmen in den Bereichen Einzelhandel, Gesundheitswesen, Finanzen, Fertigung und Dienstleistungen. Wenn Ihr Unternehmen wiederkehrende Aufgaben oder datenintensive Prozesse hat, gibt es wahrscheinlich eine Automatisierungsmöglichkeit."
+      },
+      {
+        "question": "Wie lange dauert die Implementierung typischerweise?",
+        "answer": "Die Implementierungszeiten variieren je nach Komplexität, aber die meisten Projekte liegen zwischen 4-12 Wochen. Einfache Workflow-Automatisierungen können in nur 2-3 Wochen abgeschlossen werden, während unternehmensweite Lösungen 3-6 Monate dauern können."
+      },
+      {
+        "question": "Welches technische Fachwissen wird von uns erwartet?",
+        "answer": "Von Ihrem Team wird kein technisches Fachwissen erwartet. Wir kümmern uns um alle technischen Aspekte der Implementierung, Integration und Schulung. Wir arbeiten mit Ihrem Team zusammen, um Ihre Prozesse zu verstehen, aber die technische Umsetzung liegt vollständig in unserer Verantwortung."
+      },
+      {
+        "question": "Wie viel kostet es?",
+        "answer": "Die Preise variieren je nach Projektumfang, Komplexität und Integrationsanforderungen. Wir bieten flexible Preismodelle, darunter Festpreisprojekte, monatliche Abonnements und ROI-basierte Vereinbarungen. Kontaktieren Sie uns für ein personalisiertes Angebot basierend auf Ihren spezifischen Bedürfnissen."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Präzisionsgesteuerte KI-Automatisierung für zukunftsorientierte Unternehmen.",
+    "address": "78 Gersauerstrasse",
+    "city": "Schwyz 6440",
+    "country": "Schweiz",
+    "sitemap": "Seitenübersicht",
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Dienstleistungen",
+    "cases": "Fallstudien",
+    "howItWorks": "Wie es funktioniert",
+    "contact": "Kontakt",
+    "connect": "Verbinden",
+    "privacy": "Datenschutzrichtlinie",
+    "terms": "Nutzungsbedingungen",
+    "copyright": "© {{year}} Swiss Workflow"
+  },
+  "languageSwitcher": {
+    "en": "English",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "es": "Español",
+    "pt-BR": "Português (Brasil)"
+  }
+}

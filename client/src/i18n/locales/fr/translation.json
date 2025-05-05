@@ -1,0 +1,139 @@
+{
+  "header": {
+    "about": "À PROPOS",
+    "services": "SERVICES",
+    "cases": "ÉTUDES DE CAS",
+    "contact": "CONTACT"
+  },
+  "hero": {
+    "title": "Automatisez votre flux de travail avec des agents IA",
+    "subtitle": "Augmentez la productivité et automatisez les processus grâce à des agents IA de précision conçus pour votre entreprise.",
+    "talkToExpert": "PARLER À UN EXPERT",
+    "learnMore": "EN SAVOIR PLUS"
+  },
+  "value": {
+    "integratedSystems": {
+      "title": "Systèmes intégrés",
+      "description": "Augmentez l'efficacité de 200% grâce à WhatsApp, aux API et aux CRM."
+    },
+    "provenROI": {
+      "title": "ROI prouvé",
+      "description": "Plus de 40 flux de travail automatisés dans divers secteurs."
+    }
+  },
+  "features": {
+    "title": "Caractéristiques principales",
+    "dataCollection": {
+      "title": "Collecte de données",
+      "description": "Collecte automatisée de données à partir de sources multiples avec précision et fiabilité."
+    },
+    "availability": {
+      "title": "Disponibilité 24h/24",
+      "description": "Les agents IA travaillent 24h/24 pour assurer la continuité des opérations commerciales."
+    },
+    "salesBoost": {
+      "title": "Boost des ventes",
+      "description": "Augmentez les taux de conversion avec des systèmes intelligents d'engagement client."
+    },
+    "costReduction": {
+      "title": "Réduction des coûts",
+      "description": "Minimisez les dépenses opérationnelles en automatisant les tâches répétitives."
+    },
+    "scalability": {
+      "title": "Évolutivité",
+      "description": "Développez facilement vos capacités d'automatisation à mesure que votre entreprise se développe."
+    },
+    "smartInsights": {
+      "title": "Analyses intelligentes",
+      "description": "Obtenez des informations commerciales précieuses grâce à l'analyse automatisée des données."
+    }
+  },
+  "caseStudies": {
+    "title": "Études de cas",
+    "retail": {
+      "company": "Chaîne de vente au détail",
+      "description": "Gestion automatisée des stocks dans 24 emplacements, réduisant les coûts de 30%."
+    },
+    "financial": {
+      "company": "Services financiers",
+      "description": "Processus d'intégration client simplifié, réduisant le temps de traitement de jours à minutes."
+    },
+    "healthcare": {
+      "company": "Fournisseur de soins de santé",
+      "description": "Planification automatisée des rendez-vous et suivi, améliorant la satisfaction des patients de 45%."
+    },
+    "learnMore": "EN SAVOIR PLUS"
+  },
+  "howItWorks": {
+    "title": "Comment ça marche",
+    "subtitle": "L'automatisation est complexe - mais sa mise en œuvre ne doit pas l'être. Nous simplifions le processus pour vous en 3 étapes.",
+    "consultation": {
+      "title": "Consultation gratuite",
+      "description": "Parlez à un véritable ingénieur système (généralement +500$/heure) et discutez de vos exigences et objectifs de projet. Nous écoutons attentivement pour comprendre votre vision et vos objectifs."
+    },
+    "scope": {
+      "title": "Portée et proposition",
+      "description": "Sur la base de votre consultation, nous fournirons une portée détaillée, y compris les étapes détaillées, le calendrier, le budget et toutes modifications ou extensions potentielles à votre système."
+    },
+    "start": {
+      "title": "Démarrage du projet",
+      "description": "Une fois que vous avez accepté une proposition, nous planifierons une réunion de lancement pour présenter notre équipe et commencer."
+    }
+  },
+  "contact": {
+    "title": "Construisons ensemble l'avenir",
+    "name": "Nom",
+    "email": "Email",
+    "company": "Entreprise",
+    "position": "Poste",
+    "message": "Message",
+    "send": "ENVOYER",
+    "success": "Merci pour votre message. Nous vous répondrons sous peu."
+  },
+  "faq": {
+    "title": "Questions fréquemment posées",
+    "questions": [
+      {
+        "question": "Quels types d'entreprises peuvent bénéficier de l'automatisation IA?",
+        "answer": "Pratiquement toute entreprise peut bénéficier de l'automatisation IA. Nos clients vont des petites entreprises aux grandes entreprises dans les secteurs du commerce de détail, des soins de santé, de la finance, de la fabrication et des services. Si votre entreprise a des tâches répétitives ou des processus à forte intensité de données, il y a probablement une opportunité d'automatisation."
+      },
+      {
+        "question": "Combien de temps prend généralement la mise en œuvre?",
+        "answer": "Les délais de mise en œuvre varient en fonction de la complexité, mais la plupart des projets se situent entre 4 et 12 semaines. Les automatisations de flux de travail simples peuvent être réalisées en aussi peu que 2-3 semaines, tandis que les solutions d'entreprise peuvent prendre 3-6 mois."
+      },
+      {
+        "question": "Quel niveau d'expertise technique est requis de notre côté?",
+        "answer": "Aucune expertise technique n'est requise de votre équipe. Nous gérons tous les aspects techniques de la mise en œuvre, de l'intégration et de la formation. Nous travaillerons avec votre équipe pour comprendre vos processus, mais l'exécution technique est entièrement notre responsabilité."
+      },
+      {
+        "question": "Combien cela coûte-t-il?",
+        "answer": "Les prix varient en fonction de la portée du projet, de la complexité et des exigences d'intégration. Nous offrons des modèles de tarification flexibles, y compris des projets à prix fixe, des abonnements mensuels et des arrangements basés sur le ROI. Contactez-nous pour un devis personnalisé basé sur vos besoins spécifiques."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Automatisation IA de précision pour les entreprises tournées vers l'avenir.",
+    "address": "78 Gersauerstrasse",
+    "city": "Schwyz 6440",
+    "country": "Suisse",
+    "sitemap": "Plan du site",
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "cases": "Études de cas",
+    "howItWorks": "Comment ça marche",
+    "contact": "Contact",
+    "connect": "Connexion",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "copyright": "© {{year}} Swiss Workflow"
+  },
+  "languageSwitcher": {
+    "en": "English",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "es": "Español",
+    "pt-BR": "Português (Brasil)"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "header": {
+    "about": "ACERCA DE",
+    "services": "SERVICIOS",
+    "cases": "CASOS",
+    "contact": "CONTACTO"
+  },
+  "hero": {
+    "title": "Automatiza tu flujo de trabajo con agentes de IA",
+    "subtitle": "Aumenta la productividad y automatiza procesos utilizando agentes de IA de precisión diseñados para tu negocio.",
+    "talkToExpert": "HABLAR CON UN EXPERTO",
+    "learnMore": "SABER MÁS"
+  },
+  "value": {
+    "integratedSystems": {
+      "title": "Sistemas integrados",
+      "description": "Aumenta la eficiencia en un 200% a través de WhatsApp, APIs y CRMs."
+    },
+    "provenROI": {
+      "title": "ROI comprobado",
+      "description": "Más de 40 flujos de trabajo automatizados en diversas industrias."
+    }
+  },
+  "features": {
+    "title": "Características principales",
+    "dataCollection": {
+      "title": "Recopilación de datos",
+      "description": "Recopilación automatizada de datos de múltiples fuentes con precisión y fiabilidad."
+    },
+    "availability": {
+      "title": "Disponibilidad 24h",
+      "description": "Los agentes de IA trabajan las 24 horas para garantizar la continuidad de las operaciones comerciales."
+    },
+    "salesBoost": {
+      "title": "Aumento de ventas",
+      "description": "Aumenta las tasas de conversión con sistemas inteligentes de participación del cliente."
+    },
+    "costReduction": {
+      "title": "Reducción de costos",
+      "description": "Minimiza los gastos operativos automatizando tareas repetitivas."
+    },
+    "scalability": {
+      "title": "Escalabilidad",
+      "description": "Expande fácilmente tus capacidades de automatización a medida que tu negocio crece."
+    },
+    "smartInsights": {
+      "title": "Percepciones inteligentes",
+      "description": "Obtén información empresarial valiosa a través del análisis automatizado de datos."
+    }
+  },
+  "caseStudies": {
+    "title": "Casos de estudio",
+    "retail": {
+      "company": "Cadena minorista",
+      "description": "Gestión automatizada de inventario en 24 ubicaciones, reduciendo costos en un 30%."
+    },
+    "financial": {
+      "company": "Servicios financieros",
+      "description": "Proceso de incorporación de clientes optimizado, reduciendo el tiempo de procesamiento de días a minutos."
+    },
+    "healthcare": {
+      "company": "Proveedor de salud",
+      "description": "Programación automatizada de citas y seguimientos, mejorando la satisfacción del paciente en un 45%."
+    },
+    "learnMore": "SABER MÁS"
+  },
+  "howItWorks": {
+    "title": "Cómo funciona",
+    "subtitle": "La automatización es complicada, pero implementarla no tiene por qué serlo. Simplificaremos el proceso para ti en 3 pasos.",
+    "consultation": {
+      "title": "Consulta gratuita",
+      "description": "Habla con un ingeniero de sistemas real (típicamente +$500/hora) y discute los requisitos y objetivos de tu proyecto. Escucharemos atentamente para entender tu visión y objetivos."
+    },
+    "scope": {
+      "title": "Alcance y propuesta",
+      "description": "Basándonos en tu consulta, proporcionaremos un alcance detallado, incluyendo pasos detallados, cronograma, presupuesto y cualquier modificación o extensión potencial a tu sistema."
+    },
+    "start": {
+      "title": "Inicio del proyecto",
+      "description": "Una vez que hayas acordado una propuesta, programaremos una reunión de inicio para presentar a nuestro equipo y comenzar."
+    }
+  },
+  "contact": {
+    "title": "Construyamos juntos el futuro",
+    "name": "Nombre",
+    "email": "Correo electrónico",
+    "company": "Empresa",
+    "position": "Cargo",
+    "message": "Mensaje",
+    "send": "ENVIAR",
+    "success": "Gracias por tu mensaje. Nos pondremos en contacto contigo en breve."
+  },
+  "faq": {
+    "title": "Preguntas frecuentes",
+    "questions": [
+      {
+        "question": "¿Qué tipos de empresas pueden beneficiarse de la automatización con IA?",
+        "answer": "Prácticamente cualquier empresa puede beneficiarse de la automatización con IA. Nuestros clientes van desde pequeñas empresas hasta grandes corporaciones en sectores de venta minorista, salud, finanzas, manufactura y servicios. Si tu empresa tiene tareas repetitivas o procesos intensivos en datos, probablemente haya una oportunidad de automatización."
+      },
+      {
+        "question": "¿Cuánto tiempo suele tardar la implementación?",
+        "answer": "Los tiempos de implementación varían según la complejidad, pero la mayoría de los proyectos se encuentran entre 4-12 semanas. Las automatizaciones de flujo de trabajo simples pueden completarse en tan solo 2-3 semanas, mientras que las soluciones empresariales pueden tardar 3-6 meses."
+      },
+      {
+        "question": "¿Qué nivel de experiencia técnica se requiere por nuestra parte?",
+        "answer": "No se requiere experiencia técnica por parte de tu equipo. Nos encargamos de todos los aspectos técnicos de la implementación, integración y capacitación. Trabajaremos con tu equipo para entender tus procesos, pero la ejecución técnica es completamente nuestra responsabilidad."
+      },
+      {
+        "question": "¿Cuánto cuesta?",
+        "answer": "Los precios varían según el alcance del proyecto, la complejidad y los requisitos de integración. Ofrecemos modelos de precios flexibles que incluyen proyectos de precio fijo, suscripciones mensuales y acuerdos basados en ROI. Contáctanos para obtener una cotización personalizada basada en tus necesidades específicas."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Automatización IA de precisión para empresas con visión de futuro.",
+    "address": "78 Gersauerstrasse",
+    "city": "Schwyz 6440",
+    "country": "Suiza",
+    "sitemap": "Mapa del sitio",
+    "home": "Inicio",
+    "about": "Acerca de",
+    "services": "Servicios",
+    "cases": "Casos",
+    "howItWorks": "Cómo funciona",
+    "contact": "Contacto",
+    "connect": "Conectar",
+    "privacy": "Política de privacidad",
+    "terms": "Términos de servicio",
+    "copyright": "© {{year}} Swiss Workflow"
+  },
+  "languageSwitcher": {
+    "en": "English",
+    "de": "Deutsch",
+    "fr": "Français",
+    "it": "Italiano",
+    "es": "Español",
+    "pt-BR": "Português (Brasil)"
+  }
+}
