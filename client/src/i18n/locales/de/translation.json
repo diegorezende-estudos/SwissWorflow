@@ -7,8 +7,8 @@
   },
   "hero": {
     "title": "Automatisieren Sie Ihren Workflow mit KI-Agenten",
-    "subtitle": "Steigern Sie die Produktivität und automatisieren Sie Prozesse mit präzisionsgesteuerten KI-Agenten für Ihr Unternehmen.",
-    "talkToExpert": "MIT EXPERTEN SPRECHEN",
+    "subtitle": "Steigern Sie die Produktivität und automatisieren Sie Prozesse mithilfe präzisionsgesteuerter KI-Agenten, die für Ihr Unternehmen entwickelt wurden.",
+    "talkToExpert": "SPRECHEN SIE MIT EINEM EXPERTEN",
     "learnMore": "MEHR ERFAHREN"
   },
   "value": {
@@ -17,7 +17,7 @@
       "description": "Steigern Sie die Effizienz um 200% durch WhatsApp, APIs und CRMs."
     },
     "provenROI": {
-      "title": "Bewährte Rentabilität",
+      "title": "Nachgewiesener ROI",
       "description": "Über 40 automatisierte Workflows in verschiedenen Branchen."
     }
   },
@@ -25,27 +25,27 @@
     "title": "Hauptmerkmale",
     "dataCollection": {
       "title": "Datenerfassung",
-      "description": "Automatisierte Datensammlung aus mehreren Quellen mit Präzision und Zuverlässigkeit."
+      "description": "Automatisierte Datenerfassung aus mehreren Quellen mit Präzision und Zuverlässigkeit."
     },
     "availability": {
       "title": "24h Verfügbarkeit",
-      "description": "KI-Agenten arbeiten rund um die Uhr, um den kontinuierlichen Geschäftsbetrieb zu gewährleisten."
+      "description": "KI-Agenten arbeiten rund um die Uhr, um einen kontinuierlichen Geschäftsbetrieb zu gewährleisten."
     },
     "salesBoost": {
       "title": "Umsatzsteigerung",
-      "description": "Erhöhen Sie die Konversionsraten mit intelligenten Kundeninteraktionssystemen."
+      "description": "Erhöhen Sie die Konversionsraten mit intelligenten Systemen zur Kundenbindung."
     },
     "costReduction": {
       "title": "Kostenreduzierung",
-      "description": "Minimieren Sie die Betriebskosten durch Automatisierung wiederkehrender Aufgaben."
+      "description": "Minimieren Sie die Betriebskosten durch die Automatisierung sich wiederholender Aufgaben."
     },
     "scalability": {
       "title": "Skalierbarkeit",
-      "description": "Erweitern Sie Ihre Automatisierungsfähigkeiten einfach mit dem Wachstum Ihres Unternehmens."
+      "description": "Erweitern Sie Ihre Automatisierungsfähigkeiten problemlos, während Ihr Unternehmen wächst."
     },
     "smartInsights": {
-      "title": "Intelligente Erkenntnisse",
-      "description": "Gewinnen Sie wertvolle Geschäftsinformationen durch automatisierte Datenanalyse."
+      "title": "Intelligente Einblicke",
+      "description": "Gewinnen Sie wertvolle Geschäftsinformationen durch automatisierte Datenanalysen."
     }
   },
   "caseStudies": {
@@ -56,32 +56,32 @@
     },
     "financial": {
       "company": "Finanzdienstleister",
-      "description": "Optimierter Kundenonboarding-Prozess, Verkürzung der Bearbeitungszeit von Tagen auf Minuten."
+      "description": "Optimierter Kunden-Onboarding-Prozess, wodurch die Bearbeitungszeit von Tagen auf Minuten verkürzt wird."
     },
     "healthcare": {
       "company": "Gesundheitsdienstleister",
-      "description": "Automatisierte Terminplanung und Nachsorge, Verbesserung der Patientenzufriedenheit um 45%."
+      "description": "Automatisierte Terminplanung und Nachverfolgungen, wodurch die Patientenzufriedenheit um 45% verbessert wird."
     },
     "learnMore": "MEHR ERFAHREN"
   },
   "howItWorks": {
     "title": "Wie es funktioniert",
-    "subtitle": "Automatisierung ist komplex - die Implementierung muss es nicht sein. Wir vereinfachen den Prozess für Sie in 3 Schritten.",
+    "subtitle": "Automatisierung ist kompliziert - aber die Implementierung muss es nicht sein. Wir vereinfachen den Prozess für Sie in 3 Schritten.",
     "consultation": {
-      "title": "Kostenlose Beratung",
-      "description": "Sprechen Sie mit einem echten Systemingenieur (typischerweise +500$/Stunde) und diskutieren Sie Ihre Projektanforderungen und Ziele. Wir hören aufmerksam zu, um Ihre Vision und Ziele zu verstehen."
+      "title": "1. Kostenlose Beratung",
+      "description": "Sprechen Sie mit einem echten Systemingenieur (typischerweise +500 $/Stunde) und besprechen Sie Ihre Projektanforderungen und Ziele. Wir hören genau zu, um Ihre Vision und Ziele zu verstehen."
     },
     "scope": {
-      "title": "Umfang und Angebot",
+      "title": "2. Umfang und Angebot",
       "description": "Basierend auf Ihrer Beratung erstellen wir einen detaillierten Umfang, einschließlich detaillierter Schritte, Zeitplan, Budget und möglicher Änderungen oder Erweiterungen Ihres Systems."
     },
     "start": {
-      "title": "Projektstart",
-      "description": "Sobald Sie einem Angebot zugestimmt haben, planen wir ein Kickoff-Meeting, um unser Team vorzustellen und mit der Arbeit zu beginnen."
+      "title": "3. Projektstart",
+      "description": "Sobald Sie einem Angebot zugestimmt haben, planen wir ein Kick-off-Meeting, um unser Team vorzustellen und zu beginnen."
     }
   },
   "contact": {
-    "title": "Lassen Sie uns gemeinsam die Zukunft gestalten",
+    "title": "Lassen Sie uns die Zukunft gemeinsam gestalten",
     "name": "Name",
     "email": "E-Mail",
     "company": "Unternehmen",
@@ -95,19 +95,19 @@
     "questions": [
       {
         "question": "Welche Arten von Unternehmen können von KI-Automatisierung profitieren?",
-        "answer": "Praktisch jedes Unternehmen kann von KI-Automatisierung profitieren. Unsere Kunden reichen von kleinen Unternehmen bis hin zu Großunternehmen in den Bereichen Einzelhandel, Gesundheitswesen, Finanzen, Fertigung und Dienstleistungen. Wenn Ihr Unternehmen wiederkehrende Aufgaben oder datenintensive Prozesse hat, gibt es wahrscheinlich eine Automatisierungsmöglichkeit."
+        "answer": "Praktisch jedes Unternehmen kann von KI-Automatisierung profitieren. Unsere Kunden reichen von kleinen Unternehmen bis hin zu großen Konzernen in den Bereichen Einzelhandel, Gesundheitswesen, Finanzen, Fertigung und Dienstleistungen. Wenn Ihr Unternehmen sich wiederholende Aufgaben oder datenintensive Prozesse hat, gibt es wahrscheinlich eine Automatisierungsmöglichkeit."
       },
       {
-        "question": "Wie lange dauert die Implementierung typischerweise?",
-        "answer": "Die Implementierungszeiten variieren je nach Komplexität, aber die meisten Projekte liegen zwischen 4-12 Wochen. Einfache Workflow-Automatisierungen können in nur 2-3 Wochen abgeschlossen werden, während unternehmensweite Lösungen 3-6 Monate dauern können."
+        "question": "Wie lange dauert die Implementierung normalerweise?",
+        "answer": "Die Implementierungszeitpläne variieren je nach Komplexität, aber die meisten Projekte dauern zwischen 4 und 12 Wochen. Einfache Workflow-Automatisierungen können in nur 2-3 Wochen abgeschlossen werden, während unternehmensweite Lösungen 3-6 Monate dauern können."
       },
       {
-        "question": "Welches technische Fachwissen wird von uns erwartet?",
-        "answer": "Von Ihrem Team wird kein technisches Fachwissen erwartet. Wir kümmern uns um alle technischen Aspekte der Implementierung, Integration und Schulung. Wir arbeiten mit Ihrem Team zusammen, um Ihre Prozesse zu verstehen, aber die technische Umsetzung liegt vollständig in unserer Verantwortung."
+        "question": "Welches Maß an technischem Fachwissen wird von unserer Seite benötigt?",
+        "answer": "Von Ihrem Team wird kein technisches Fachwissen benötigt. Wir kümmern uns um alle technischen Aspekte der Implementierung, Integration und Schulung. Wir arbeiten mit Ihrem Team zusammen, um Ihre Prozesse zu verstehen, aber die technische Ausführung liegt vollständig in unserer Verantwortung."
       },
       {
         "question": "Wie viel kostet es?",
-        "answer": "Die Preise variieren je nach Projektumfang, Komplexität und Integrationsanforderungen. Wir bieten flexible Preismodelle, darunter Festpreisprojekte, monatliche Abonnements und ROI-basierte Vereinbarungen. Kontaktieren Sie uns für ein personalisiertes Angebot basierend auf Ihren spezifischen Bedürfnissen."
+        "answer": "Die Preise variieren je nach Projektumfang, Komplexität und Integrationsanforderungen. Wir bieten flexible Preismodelle an, darunter Festpreisprojekte, monatliche Abonnements und ROI-basierte Vereinbarungen. Kontaktieren Sie uns für ein individuelles Angebot basierend auf Ihren spezifischen Bedürfnissen."
       }
     ]
   },
@@ -116,7 +116,7 @@
     "address": "78 Gersauerstrasse",
     "city": "Schwyz 6440",
     "country": "Schweiz",
-    "sitemap": "Seitenübersicht",
+    "sitemap": "Sitemap",
     "home": "Startseite",
     "about": "Über uns",
     "services": "Dienstleistungen",

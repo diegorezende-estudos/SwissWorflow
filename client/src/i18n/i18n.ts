@@ -38,6 +38,8 @@ i18n
   // init i18next
   .init({
     resources,
+    // Force English in development, otherwise let detector run
+    lng: import.meta.env.MODE === 'development' ? 'en' : undefined,
     fallbackLng: 'en',
     debug: false,
     interpolation: {

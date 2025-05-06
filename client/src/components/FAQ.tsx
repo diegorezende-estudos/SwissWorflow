@@ -5,6 +5,7 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "@/components/ui/accordion";
+import { useTranslation } from "react-i18next";
 
 const faqs = [
   {
@@ -30,26 +31,38 @@ const faqs = [
 ];
 
 const FAQ = () => {
-  return (
-    <section className="py-20 px-8 md:px-16 max-w-7xl mx-auto">
-      <h2 className="text-2xl font-bold mb-12">Frequently Asked Questions</h2>
+  const { t } = useTranslation();
 
-      <Accordion type="single" collapsible>
-        {faqs.map((faq, index) => (
-          <AccordionItem 
-            key={index} 
-            value={`item-${index}`}
-            className="border-t-2 border-black pt-4"
-          >
-            <AccordionTrigger className="flex justify-between items-center text-lg font-bold">
-              {faq.question}
-            </AccordionTrigger>
-            <AccordionContent className="pt-4 pb-2 text-sm">
-              {faq.answer}
-            </AccordionContent>
-          </AccordionItem>
-        ))}
-      </Accordion>
+  // Assuming your translation JSON structure for FAQ is like:
+  // "faq": {
+  //   "title": "Frequently Asked Questions",
+  //   "questions": [
+  //     { "question": "Q1?", "answer": "A1" },
+  //     { "question": "Q2?", "answer": "A2" }
+  //   ]
+  // }
+  // Need to tell i18next to return the object/array
+  const faqItems = t('faq.questions', { returnObjects: true }) as { question: string; answer: string }[];
+
+  return (
+    <section className="py-12 sm:py-16 md:py-20 px-4 sm:px-8 md:px-16 bg-white">
+      <div className="max-w-3xl mx-auto">
+        <h2 className="text-3xl sm:text-4xl font-bold text-center mb-12 sm:mb-16">
+          {t('faq.title')}
+        </h2>
+        <Accordion type="single" collapsible className="w-full">
+          {faqItems.map((item, index) => (
+            <AccordionItem key={index} value={`item-${index}`} className="border-b border-black">
+              <AccordionTrigger className="text-left font-bold hover:no-underline">
+                {item.question}
+              </AccordionTrigger>
+              <AccordionContent className="pt-2 pb-4">
+                {item.answer}
+              </AccordionContent>
+            </AccordionItem>
+          ))}
+        </Accordion>
+      </div>
     </section>
   );
 };

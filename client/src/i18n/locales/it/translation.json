@@ -2,41 +2,41 @@
   "header": {
     "about": "CHI SIAMO",
     "services": "SERVIZI",
-    "cases": "CASI STUDIO",
+    "cases": "CASI DI STUDIO",
     "contact": "CONTATTI"
   },
   "hero": {
-    "title": "Automatizza il tuo flusso di lavoro con agenti IA",
-    "subtitle": "Aumenta la produttività e automatizza i processi utilizzando agenti IA di precisione progettati per la tua azienda.",
+    "title": "Automatizza il Tuo Flusso di Lavoro con Agenti IA",
+    "subtitle": "Aumenta la produttività e automatizza i processi utilizzando agenti IA di precisione progettati per la tua attività.",
     "talkToExpert": "PARLA CON UN ESPERTO",
     "learnMore": "SCOPRI DI PIÙ"
   },
   "value": {
     "integratedSystems": {
-      "title": "Sistemi integrati",
-      "description": "Aumenta l'efficienza del 200% attraverso WhatsApp, API e CRM."
+      "title": "Sistemi Integrati",
+      "description": "Aumenta l'efficienza del 200% tramite WhatsApp, API e CRM."
     },
     "provenROI": {
-      "title": "ROI provato",
+      "title": "ROI Comprovato",
       "description": "Oltre 40 flussi di lavoro automatizzati in vari settori."
     }
   },
   "features": {
-    "title": "Caratteristiche principali",
+    "title": "Caratteristiche Principali",
     "dataCollection": {
-      "title": "Raccolta dati",
-      "description": "Raccolta automatizzata di dati da più fonti con precisione e affidabilità."
+      "title": "Raccolta Dati",
+      "description": "Raccolta dati automatizzata da più fonti con precisione e affidabilità."
     },
     "availability": {
-      "title": "Disponibilità 24h",
-      "description": "Gli agenti IA lavorano 24 ore su 24 per garantire la continuità delle operazioni aziendali."
+      "title": "Disponibilità 24 ore su 24",
+      "description": "Gli agenti IA lavorano 24 ore su 24 per garantire la continuità operativa aziendale."
     },
     "salesBoost": {
-      "title": "Aumento delle vendite",
+      "title": "Incremento Vendite",
       "description": "Aumenta i tassi di conversione con sistemi intelligenti di coinvolgimento dei clienti."
     },
     "costReduction": {
-      "title": "Riduzione dei costi",
+      "title": "Riduzione dei Costi",
       "description": "Minimizza le spese operative automatizzando le attività ripetitive."
     },
     "scalability": {
@@ -44,75 +44,75 @@
       "description": "Espandi facilmente le tue capacità di automazione man mano che la tua azienda cresce."
     },
     "smartInsights": {
-      "title": "Approfondimenti intelligenti",
-      "description": "Ottieni preziose informazioni aziendali attraverso l'analisi automatizzata dei dati."
+      "title": "Approfondimenti Intelligenti",
+      "description": "Ottieni preziose informazioni aziendali tramite l'analisi automatizzata dei dati."
     }
   },
   "caseStudies": {
-    "title": "Casi studio",
+    "title": "Casi di Studio",
     "retail": {
-      "company": "Catena di vendita al dettaglio",
+      "company": "Catena di Vendita al Dettaglio",
       "description": "Gestione automatizzata dell'inventario in 24 sedi, riducendo i costi del 30%."
     },
     "financial": {
-      "company": "Servizi finanziari",
-      "description": "Processo di onboarding dei clienti semplificato, riducendo il tempo di elaborazione da giorni a minuti."
+      "company": "Servizi Finanziari",
+      "description": "Processo di onboarding dei clienti semplificato, riducendo i tempi di elaborazione da giorni a minuti."
     },
     "healthcare": {
-      "company": "Fornitore di assistenza sanitaria",
+      "company": "Fornitore di Assistenza Sanitaria",
       "description": "Pianificazione automatizzata degli appuntamenti e follow-up, migliorando la soddisfazione dei pazienti del 45%."
     },
     "learnMore": "SCOPRI DI PIÙ"
   },
   "howItWorks": {
-    "title": "Come funziona",
-    "subtitle": "L'automazione è complicata - ma la sua implementazione non deve esserlo. Semplificheremo il processo per te in 3 passaggi.",
+    "title": "Come Funziona",
+    "subtitle": "L'automazione è complicata, ma implementarla non deve esserlo. Semplificheremo il processo per te in 3 passaggi.",
     "consultation": {
-      "title": "Consulenza gratuita",
-      "description": "Parla con un vero ingegnere di sistemi (tipicamente +500$/ora) e discuti delle tue esigenze e obiettivi di progetto. Ascolteremo attentamente per comprendere la tua visione e i tuoi obiettivi."
+      "title": "1. Consulenza Gratuita",
+      "description": "Parla con un vero ingegnere di sistemi (tipicamente +500 $/ora) e discuti i requisiti e gli obiettivi del tuo progetto. Ascolteremo attentamente per comprendere la tua visione e i tuoi obiettivi."
     },
     "scope": {
-      "title": "Ambito e proposta",
-      "description": "Sulla base della tua consulenza, forniremo un ambito dettagliato, compresi i passaggi dettagliati, la tempistica, il budget e eventuali modifiche o estensioni potenziali al tuo sistema."
+      "title": "2. Ambito e Proposta",
+      "description": "Sulla base della tua consulenza, forniremo un ambito dettagliato, inclusi passaggi dettagliati, tempistiche, budget e potenziali modifiche o estensioni al tuo sistema."
     },
     "start": {
-      "title": "Inizio del progetto",
-      "description": "Una volta che hai accettato una proposta, programmeremo una riunione di avvio per presentare il nostro team e iniziare."
+      "title": "3. Inizio del Progetto",
+      "description": "Una volta concordata una proposta, programmeremo una riunione di avvio per presentare il nostro team e iniziare."
     }
   },
   "contact": {
-    "title": "Costruiamo insieme il futuro",
+    "title": "Costruiamo il futuro insieme",
     "name": "Nome",
     "email": "Email",
     "company": "Azienda",
     "position": "Posizione",
     "message": "Messaggio",
     "send": "INVIA",
-    "success": "Grazie per il tuo messaggio. Ti risponderemo al più presto."
+    "success": "Grazie per il tuo messaggio. Ti risponderemo a breve."
   },
   "faq": {
-    "title": "Domande frequenti",
+    "title": "Domande Frequenti",
     "questions": [
       {
         "question": "Quali tipi di aziende possono beneficiare dell'automazione IA?",
-        "answer": "Praticamente qualsiasi azienda può beneficiare dell'automazione IA. I nostri clienti vanno dalle piccole imprese alle grandi aziende nei settori del retail, della sanità, della finanza, della produzione e dei servizi. Se la tua azienda ha attività ripetitive o processi ad alta intensità di dati, c'è probabilmente un'opportunità di automazione."
+        "answer": "Praticamente qualsiasi azienda può beneficiare dell'automazione IA. I nostri clienti spaziano dalle piccole imprese alle grandi aziende nei settori della vendita al dettaglio, sanità, finanza, produzione e servizi. Se la tua azienda ha attività ripetitive o processi ad alta intensità di dati, è probabile che ci sia un'opportunità di automazione."
       },
       {
         "question": "Quanto tempo richiede tipicamente l'implementazione?",
-        "answer": "I tempi di implementazione variano in base alla complessità, ma la maggior parte dei progetti rientra tra le 4-12 settimane. Le automazioni di flusso di lavoro semplici possono essere completate in appena 2-3 settimane, mentre le soluzioni aziendali possono richiedere 3-6 mesi."
+        "answer": "Le tempistiche di implementazione variano in base alla complessità, ma la maggior parte dei progetti richiede tra le 4 e le 12 settimane. Le semplici automazioni del flusso di lavoro possono essere completate in appena 2-3 settimane, mentre le soluzioni a livello aziendale possono richiedere 3-6 mesi."
       },
       {
         "question": "Quale livello di competenza tecnica è richiesto da parte nostra?",
-        "answer": "Nessuna competenza tecnica è richiesta dal vostro team. Gestiamo tutti gli aspetti tecnici dell'implementazione, integrazione e formazione. Lavoreremo con il vostro team per comprendere i vostri processi, ma l'esecuzione tecnica è interamente nostra responsabilità."
+        "answer": "Non è richiesta alcuna competenza tecnica da parte del tuo team. Gestiamo tutti gli aspetti tecnici dell'implementazione, integrazione e formazione. Collaboreremo con il tuo team per comprendere i tuoi processi, ma l'esecuzione tecnica è interamente nostra responsabilità."
       },
       {
         "question": "Quanto costa?",
-        "answer": "I prezzi variano in base all'ambito del progetto, alla complessità e ai requisiti di integrazione. Offriamo modelli di prezzo flessibili che includono progetti a prezzo fisso, abbonamenti mensili e accordi basati sul ROI. Contattateci per un preventivo personalizzato in base alle vostre specifiche esigenze."
+        "answer": "I prezzi variano in base all'ambito del progetto, alla complessità e ai requisiti di integrazione. Offriamo modelli di prezzo flessibili che includono progetti a prezzo fisso, abbonamenti mensili e accordi basati sul ROI. Contattaci per un preventivo personalizzato basato sulle tue esigenze specifiche."
       }
     ]
   },
   "footer": {
-    "tagline": "Automazione IA di precisione per aziende lungimiranti.",
+    "tagline": "Automazione IA di precisione per aziende orientate al futuro.",
     "address": "78 Gersauerstrasse",
     "city": "Schwyz 6440",
     "country": "Svizzera",
@@ -120,11 +120,11 @@
     "home": "Home",
     "about": "Chi siamo",
     "services": "Servizi",
-    "cases": "Casi studio",
+    "cases": "Casi di studio",
     "howItWorks": "Come funziona",
     "contact": "Contatti",
     "connect": "Connettiti",
-    "privacy": "Politica sulla privacy",
+    "privacy": "Informativa sulla privacy",
     "terms": "Termini di servizio",
     "copyright": "© {{year}} Swiss Workflow"
   },
